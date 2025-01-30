@@ -23,8 +23,7 @@ I'm a **Master's Student in Informatics** with a focus on **Artificial Intellige
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## 🔭 Research Interests
-- **Artificial Intelligence**: Machine learning and deep learning.
+- **Artificial Intelligence**: Machine Learning, Deep Learning, Computer Vision, Uncertainty Quantification.
 - **Biomedical Informatics**: AI-driven solutions for healthcare.
-- **Cybersecurity**: Anomaly detection, networks and usable security.
 
 Thanks for visiting my profile!
