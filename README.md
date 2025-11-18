@@ -1,6 +1,6 @@
 # Hello! 👋 I'm MakrisJr
 
-I'm a **Master's Student in Informatics** with a focus on **Artificial Intelligence**, **Biomedical Informatics**, and **Software Development**. I love exploring new technologies and building solutions in the fields of AI and healthcare.
+I'm a **PhD student in Biomedical AI**. I love exploring new technologies and building solutions in the fields of AI and healthcare.
 
 ## 💻 Skills
 **Programming Languages**:  
